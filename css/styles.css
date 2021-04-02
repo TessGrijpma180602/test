@@ -79,19 +79,22 @@
     font-size: 28px;
     margin-top: 10px;
 }
-img.welcome  {
-    width: 700px;
-    height: 500px;
-}
-
-img.product  {
+img.review1  {
     width: 300px;
     height: 300px;
+    border-radius: 50%;
 }
 
-img.contact  {
+img.review2  {
     width: 300px;
     height: 300px;
+    border-radius: 50%;
+}
+
+img.review3  {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
 }
 .carousel-indicators{
 	color:rgba(47,121,106,1.00);
@@ -99,7 +102,8 @@ img.contact  {
 }
 .sr-only {
 	color:rgba(47,121,106,1.00);
-}.color-contactform {
+}
+.color-contactform {
     color: #717171;
 }
 .carousel-caption {
